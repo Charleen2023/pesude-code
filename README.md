@@ -3,8 +3,9 @@
 :*order of matches
 # Print matches ( into n):
 #if matches were N
-□if N=N+2
-□N=N+1
+□if N=0
+If
+□N=N+3
 #Return results
-□N=2
-□+N=N+1;*:
+□N=3
+
